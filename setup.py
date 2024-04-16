@@ -7,7 +7,7 @@ setup(
    license='MIT',
    author='Oksana Galiulina',
    author_email='oksana17.06@bk.ru',
-   url='https://github.com/standlab/mtracker',
+   url='https://github.com/mgwoorl/my_project',
    packages=['mtracker'], 
    install_requires=[], # it is empty since we use standard python library
    extras_require={
